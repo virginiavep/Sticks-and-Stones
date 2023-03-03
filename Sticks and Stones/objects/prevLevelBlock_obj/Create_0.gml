@@ -1,0 +1,1 @@
+var prev_room, prev_x, prev_y 

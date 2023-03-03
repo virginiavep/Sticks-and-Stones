@@ -1,0 +1,20 @@
+Sounds:
+All Sound Effects and Music by Chris Penn and Virginia Penn (2021).
+
+Character Models:
+All Models and Sprites for Characters created by Chris Penn and Sai Krishna Uddagiri(2021).
+
+Tileset:
+Top-down Earth Tileset free asset created by beeler (https://beeler.itch.io)
+Modified colors and added a door sprite done by Joseph Riffe
+Licensed under Creative Commons: By Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Sprites:
+Free Pixel Food asset created by Henry Software (https://henrysoftware.itch.io)
+Licensed under Creative Commons: By Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+
+Tree Assets used from Free 2D RPG Desert Tileset created by Craftpix.net team (https://craftpix.net/freebies/free-2d-rpg-desert-tileset/)
+Licensed under Creative Commons: By Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
